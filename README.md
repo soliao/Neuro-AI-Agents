@@ -1,2 +1,2 @@
-# Neuroanatomical-AI-Agent
-Applications of AI agents in neuroanatomical images
+# Neuro-AI-Agents
+Survey and implementations of state-of-the-art foundation models in digital pathology
